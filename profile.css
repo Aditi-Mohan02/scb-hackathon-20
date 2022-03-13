@@ -6,7 +6,7 @@ body{
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  background-color: #fad1d1;
 }
 .container{
   max-width: 700px; 
@@ -80,7 +80,7 @@ form .button input{
   letter-spacing: 1px;
   cursor: pointer;
   transition: all 0.3s ease;
-  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  background: #FF416C;
 }
 form .button input:hover{
  /* transform: scale(0.99); */
